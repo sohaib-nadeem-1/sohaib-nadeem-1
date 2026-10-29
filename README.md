@@ -15,9 +15,6 @@ I'm **Sohaib**, a Computer Science student and aspiring **Full-Stack Developer**
 **Database:** PostgreSQL, MongoDB, Drizzle ORM  
 **Tools:** Git, GitHub, Docker, VS Code
 
-### 📌 Projects
-- 🎬 **CineBook** — Movie Booking System
-- 📊 **Admin Dashboard** — Product & User Management
 
 ### 📫 Connect With Me
 📧 sohaibmr158@gmail.com  
